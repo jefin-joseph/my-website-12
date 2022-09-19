@@ -20,7 +20,7 @@ disqusShortname = ""
 
   # Provide your metadata here.
   name = "Jefin Joseph"
-  description = "Your description"
+  description = "This portfolio website features data projects undertaken by Jefin."
 
   # Link custom assets relative to /static
   custom_css = []
@@ -33,8 +33,7 @@ disqusShortname = ""
   # 404 error customization
   [params.error404]
     heading = "Page couldn't be found"
-    text = "Please visit [this page](/)"
-
+    text = "Please email: jefinjoseph.uk@gmail.com"
   # Navigation Section
   [params.navigation]
     title = "Forty"
@@ -82,7 +81,7 @@ disqusShortname = ""
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
     title = "Hi, my name is Jefin Joseph"
-    subtitle = "A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP\nAND RELEASED UNDER THE CREATIVE COMMONS."
+    subtitle = "Portfolio website featuring my data projects"
     buttonText = "Get Started"
 
 
@@ -92,8 +91,8 @@ disqusShortname = ""
     # Display your showcases here.
     
     [[params.tiles.showcase]]
-      title = "Aliquam"
-      subtitle = "Ipsum Dolor Sit Amet"
+      title = "Me"
+      subtitle = "Discover more about me"
       image = "pic01.jpg"
       url = "blogs/aliquam"
 
@@ -172,17 +171,17 @@ disqusShortname = ""
     # by copying the corresponding map with frontmatter code.
     [[params.contact.email]]
     title = "Email"
-    email = "example@domain.com"
+    email = "jefinjoseph.uk@gmail.com"
 
     [[params.contact.phone]]
     title = "Phone"
-    phone = "(000) 000-0000 x1234"
+    phone = "Available on request"
 
     [[params.contact.address]]
     title = "Address"
-    street = "Street"
-    city = "City, ST 00000"
-    country = "Country"
+    street = ""
+    city = "London"
+    country = "United Kingdom"
 
   # Footer section
   [params.footer]

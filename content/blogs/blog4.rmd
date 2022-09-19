@@ -1,5 +1,5 @@
 ---
-title: "Aliquam"
+title: "About Me"
 description: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus."
 slug: "aliquam"
 image: pic07.jpg
@@ -10,3 +10,9 @@ categories:
 date: 2017-10-31T22:42:51-05:00
 draft: false
 ---
+My name is Jefin Joseph. 
+And I'm a Masters in Analytics and Management student at London Business School.
+
+Before LBS, I worked for a London-based content marketing agency. My expertise lies in writing and optimizing long-form articles for Saas, fintech, and automobile clients. Prior to that, I was a software engineer at IQVIA, working on data migration testing and master data management project development.
+
+I look forward to my time here!
